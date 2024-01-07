@@ -1,0 +1,6 @@
+RENCANA BELAJAR APE
+- js
+- react js
+- php
+  * laravel
+- flutter
