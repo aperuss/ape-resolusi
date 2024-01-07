@@ -3,5 +3,6 @@ RENCANA BELAJAR APE
 - react js
 - php
   * laravel
-- flutter
+  * Yii
 - kotlin
+- golang
