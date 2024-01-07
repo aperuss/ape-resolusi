@@ -3,6 +3,7 @@ RENCANA BELAJAR APE
 - react js
 - php
   * laravel
-  * Yii
+  * codelgniter
+- flutter
 - kotlin
 - golang
