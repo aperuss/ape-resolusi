@@ -4,3 +4,4 @@ RENCANA BELAJAR APE
 - php
   * laravel
 - flutter
+- kotlin
